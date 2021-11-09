@@ -16,5 +16,5 @@
 | Monitor  | LG 1810B  |
 | Sound Card  |  Realtek ALC887 (layout-id:2)  |
 | Wireless Card  | No  |
-| OS | macOS Big Sur 11.4 |
+| OS | macOS Monterey 12.0.1 |
 

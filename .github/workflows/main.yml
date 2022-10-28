@@ -1,8 +1,0 @@
-on:
-  label:
-    types:
-      - created
-  push:
-    branches:
-      - main
-  page_build:
